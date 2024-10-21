@@ -1,0 +1,15 @@
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\bin\Debug\net8.0\Randstad-Backend-com-DOTNET.exe
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\bin\Debug\net8.0\Randstad-Backend-com-DOTNET.deps.json
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\bin\Debug\net8.0\Randstad-Backend-com-DOTNET.runtimeconfig.json
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\bin\Debug\net8.0\Randstad-Backend-com-DOTNET.dll
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\bin\Debug\net8.0\Randstad-Backend-com-DOTNET.pdb
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.AssemblyInfoInputs.cache
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.AssemblyInfo.cs
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.sourcelink.json
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.dll
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\refint\Randstad-Backend-com-DOTNET.dll
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.pdb
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\Randstad-Backend-com-DOTNET.genruntimeconfig.cache
+C:\Users\mille\Documents\GitHub\Randstad-Backend-com-DOTNET\obj\Debug\net8.0\ref\Randstad-Backend-com-DOTNET.dll
