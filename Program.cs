@@ -1,8 +1,55 @@
 ﻿using Randstad_Backend_com_DOTNET.models;
 
 
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine("sao " + dataAtual .ToString("dd/MM/yyyy HH:mm"));
+string a = "15";
+
+int b = 0;
+int.TryParse(a, out b);
+
+Console.WriteLine(b);
+Console.WriteLine("Conversao realizada com sucesso!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// double a = 4 / (2 + 2);
+// Console.WriteLine(a);
+
+
+
+// int a = int.MaxValue;  
+// int b = a;
+
+
+// Console.WriteLine(b);
+
+
+
+
+
+
+//long a = long.MaxValue;
+// int b = Convert.ToInt32(a);
+
+
+
+// int a = 5;
+// double b = a;
 
 
 
@@ -24,8 +71,23 @@ Console.WriteLine("sao " + dataAtual .ToString("dd/MM/yyyy HH:mm"));
 
 
 
+//int a = Convert.ToInt32(null);
+// int a = int.Parse(null);
 
 
+
+// int a = 10; 
+// int b = 20;
+
+// int c = a + b;
+
+// c = c + 5;
+
+// c += 5;
+
+
+// DateTime dataAtual = DateTime.Now;
+// Console.WriteLine("sao " + dataAtual .ToString("dd/MM/yyyy HH:mm"));
 
 
 
