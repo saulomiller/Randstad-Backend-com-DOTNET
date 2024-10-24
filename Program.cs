@@ -1,13 +1,23 @@
 ﻿using Randstad_Backend_com_DOTNET.models;
 
 
-string a = "15";
 
-int b = 0;
-int.TryParse(a, out b);
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
 
-Console.WriteLine(b);
-Console.WriteLine("Conversao realizada com sucesso!");
+switch (letra)
+{
+        case "a":
+        case "e":
+        case "i":
+        case "o":
+        case "u":
+                Console.WriteLine("Vogal");
+                break;
+        default:
+                Console.WriteLine("Nao e uma vogal.");
+                break;        
+}
 
 
 
@@ -21,6 +31,53 @@ Console.WriteLine("Conversao realizada com sucesso!");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int quantidadeEmEstoque = 10;
+// int quantidadeCompra = 10;
+// bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque:{quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+// Console.WriteLine($"E possivel realizar a venda? {possivelVenda}");
+
+
+
+
+//  if (quantidadeCompra == 0)
+// {
+//         Console.WriteLine("Venda invalida.");
+// }
+ 
+// else if (possivelVenda)
+// {
+//         Console.WriteLine("Venda realizada.");
+// } 
+ 
+ 
+//  else
+// {
+//         Console.WriteLine("Desculpe. Nao temos a quantidade em estoque.");
+// }
+
+// string a = "15";
+
+// int b = 0;
+// int.TryParse(a, out b);
+
+// Console.WriteLine(b);
+// Console.WriteLine("Conversao realizada com sucesso!");
 
 
 
@@ -50,24 +107,6 @@ Console.WriteLine("Conversao realizada com sucesso!");
 
 // int a = 5;
 // double b = a;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -104,24 +143,11 @@ Console.WriteLine("Conversao realizada com sucesso!");
 
 
 
-
-
 // Console.WriteLine(apresentacao);
 //Console.WriteLine("Valor da variavel quantidade: " + quantidade);
 // Console.WriteLine("Valor da variavel altura: " + altura.ToString("0.00"));
 // Console.WriteLine("Valor da variavel preco: " + preco);
 // Console.WriteLine("Valor da variavel condicao: " + condicao);
-
-
-
-
-
-
-
-
-
-
-
 
 
 
