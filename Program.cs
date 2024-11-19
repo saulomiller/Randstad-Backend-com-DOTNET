@@ -2,21 +2,17 @@
 
 
 
-Console.WriteLine("Digite uma letra");
-string letra = Console.ReadLine();
+bool ehMaiorDeIdade =  false;
+bool possuiAutorizacaoDoResponsavel = true;
 
-switch (letra)
+if (esMaiorDeIdade || possuiAutorizacaoDoResponsavel)
 {
-        case "a":
-        case "e":
-        case "i":
-        case "o":
-        case "u":
-                Console.WriteLine("Vogal");
-                break;
-        default:
-                Console.WriteLine("Nao e uma vogal.");
-                break;        
+        Console.WriteLine("Entrada liberada!");
+
+}
+else
+{
+        Console.WriteLine("Entrada nao liberada");`~
 }
 
 
@@ -37,6 +33,38 @@ switch (letra)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
+
+// switch (letra)
+// {
+//         case "a":
+//         case "e":
+//         case "i":
+//         case "o":
+//         case "u":
+//                 Console.WriteLine("Vogal");
+//                 break;
+//         default:
+//                 Console.WriteLine("Nao e uma vogal.");
+//                 break;        
+// }
 
 
 

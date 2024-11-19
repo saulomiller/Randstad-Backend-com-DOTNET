@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Randstad-Backend-com-DOTNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de821bccf77e7471571ccb1d720f73da6f140d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83626e32c01fc24b041943d610033b1e277e946e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Randstad-Backend-com-DOTNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Randstad-Backend-com-DOTNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
